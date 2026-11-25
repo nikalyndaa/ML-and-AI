@@ -1,0 +1,16 @@
+# Віртуальне оточення Python
+.venv/
+env/
+venv/
+
+
+
+# Налаштування середовища розробки (PyCharm / IntelliJ IDEA)
+.idea/
+*.iml
+
+
+__pycache__/
+*.pth
+*.pt
+.ipynb_checkpoints/
