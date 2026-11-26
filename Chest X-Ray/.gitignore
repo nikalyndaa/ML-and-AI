@@ -1,0 +1,20 @@
+# Віртуальне оточення Python
+.venv/
+env/
+venv/
+
+# Jupyter Notebook чекпоїнти
+.ipynb_checkpoints/
+
+# Налаштування середовища розробки (PyCharm / IntelliJ IDEA)
+.idea/
+*.iml
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Операційна система
+.DS_Store
+Thumbs.db
