@@ -1,0 +1,16 @@
+﻿query_title,book_id,title,authors,similarity
+"The Hunger Games (The Hunger Games, #1)",507,"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins,0.8471
+"The Hunger Games (The Hunger Games, #1)",20,"Mockingjay (The Hunger Games, #3)",Suzanne Collins,0.7829
+"The Hunger Games (The Hunger Games, #1)",17,"Catching Fire (The Hunger Games, #2)",Suzanne Collins,0.7317
+"The Hunger Games (The Hunger Games, #1)",6224,The World of the Hunger Games (Hunger Games Trilogy),Kate Egan,0.6281
+"The Hunger Games (The Hunger Games, #1)",1355,The Hunger Games Tribute Guide,Emily Seife,0.461
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",25,"Harry Potter and the Deathly Hallows (Harry Potter, #7)","J.K. Rowling, Mary GrandPré",0.6986
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",23,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)","J.K. Rowling, Mary GrandPré",0.6965
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",21,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)","J.K. Rowling, Mary GrandPré",0.6939
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",24,"Harry Potter and the Goblet of Fire (Harry Potter, #4)","J.K. Rowling, Mary GrandPré",0.6937
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",27,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)","J.K. Rowling, Mary GrandPré",0.6909
+The Hobbit,964,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,0.429
+The Hobbit,1129,"The History of the Hobbit, Part One: Mr. Baggins","John D. Rateliff, J.R.R. Tolkien",0.336
+The Hobbit,466,The Hobbit: Graphic Novel,"Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming",0.3161
+The Hobbit,2309,The Children of Húrin,"J.R.R. Tolkien, Christopher Tolkien, Alan Lee",0.2087
+The Hobbit,4976,Unfinished Tales of Númenor and Middle-Earth,"J.R.R. Tolkien, Christopher Tolkien",0.1858
